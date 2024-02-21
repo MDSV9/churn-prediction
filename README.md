@@ -1,4 +1,5 @@
-# Kaggle Competition Submission - Binary Classification with a Bank Churn Dataset **IN PROGRESS**
+# Kaggle Competition Submission - Binary Classification with a Bank Churn Dataset 
+**IN PROGRESS**
 
 ## Overview
 This repository contains my submission for the Kaggle competition "Binary Classification with a Bank Churn Dataset - Playground Series - Season 4, Episode 1." The goal of this competition is to predict whether a customer will continue with their bank account or close it (churn).
@@ -46,9 +47,6 @@ Give credit to any external resources, libraries, or discussions that influenced
 - If you have any questions or feedback, feel free to reach out:
   - Email: [Your Email Address]
   - Kaggle: [Your Kaggle Profile]
-
-## License
-This project is licensed under the [Your License] - see the [LICENSE](LICENSE) file for details.
 
 ---
 
