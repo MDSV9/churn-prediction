@@ -5,7 +5,7 @@
 This repository contains my late submission for the Kaggle competition "Binary Classification with a Bank Churn Dataset - Playground Series - Season 4, Episode 1." The goal of this competition is to predict whether a customer will continue with their bank account or close it (churn).
 
 ## Leaderboard Rank
-- My post competition leaderboard rank: [Your rank]
+- My post competition leaderboard rank: **248**
 - Date of submission: 2/22/2024
 
 ## Code and Notebooks
@@ -41,16 +41,40 @@ The entire data analysis and modeling process, from Exploratory Data Analysis (E
 3. Ensure all dependencies are installed.
 
 ## Future Work
-Discuss potential improvements or additional steps that could be taken to enhance the model or address limitations.
+
+Here are some potential avenues for further exploration and improvement:
+
+- **Vectorization of Text Data:**
+  - Consider exploring techniques for vectorizing text data before encoding. Methods like TF-IDF or word embeddings might offer additional insights. 
+
+- **PCA of Vectorization:**
+  - Experiment with Principal Component Analysis (PCA) on the vectorized text data. This could potentially help in reducing dimensionality while preserving important information.
+
+- **Explore Different Classification Models:**
+  - Try implementing other classification models such as XGBoost, LightGBM, and Random Decision Trees. Evaluate their performance compared to the current model and choose the one that best suits the problem.
+
+- **Seek Expert Insight for Feature Engineering:**
+  - Collaborate with domain experts or seek expert advice for further refining feature engineering techniques. Their insights can provide a deeper understanding of the domain-specific aspects and lead to more effective feature engineering strategies.
 
 ## Acknowledgments
-Give credit to any external resources, libraries, or discussions that influenced your approach.
+
+I would like to express my gratitude to the following contributors whose work greatly influenced and contributed to this project:
+
+- **Inspiration and Learning:**
+  - Much inspiration and valuable insights were gained from the notebook and solution provided by [Iqbal Syah Akbar](https://www.kaggle.com/iqbalsyahakbar) on Kaggle.
+
+- **Feature Engineering:**
+  - Special thanks to [Aswini Pillai](https://www.kaggle.com/aspillai) for the excellent feature engineering techniques shared on Kaggle.
+
+- **Pipeline Experimentation:**
+  - Insightful guidance on pipeline experimentation was derived from [Adam Novotny's blog](https://adamnovotny.com/blog/custom-scikit-learn-pipeline.html).
+
+- **Ideas and Collaboration:**
+  - A bunch of fantastic ideas were bounced around with [Matt Lee](https://github.com/mattstergamer). Cheers for the brainy discussions!
+
+Their contributions significantly contributed to the success and understanding of this project.
+
 
 ## Contact
 - If you have any questions or feedback, feel free to reach out:
-  - Email: [Your Email Address]
-  - Kaggle: [Your Kaggle Profile]
-
----
-
-Good luck to all participants in the Kaggle competition "Binary Classification with a Bank Churn Dataset - Playground Series - Season 4, Episode 1"! 🚀
+  - Email: moisesdsvera@gmail.com
