@@ -2,11 +2,11 @@
 **IN PROGRESS**
 
 ## Overview
-This repository contains my submission for the Kaggle competition "Binary Classification with a Bank Churn Dataset - Playground Series - Season 4, Episode 1." The goal of this competition is to predict whether a customer will continue with their bank account or close it (churn).
+This repository contains my late submission for the Kaggle competition "Binary Classification with a Bank Churn Dataset - Playground Series - Season 4, Episode 1." The goal of this competition is to predict whether a customer will continue with their bank account or close it (churn).
 
 ## Leaderboard Rank
-- My final leaderboard rank: [Your rank]
-- Date of submission: [Submission date]
+- My post competition leaderboard rank: [Your rank]
+- Date of submission: 2/22/2024
 
 ## Code and Notebooks
 ### Notebooks
@@ -20,22 +20,25 @@ This repository contains my submission for the Kaggle competition "Binary Classi
    - [Link to Model Training notebook]
 
 ### Code
-- The `src/` directory contains the source code for my solution.
+- The `notebooks/` directory contains the code for my solution.
 
 ## Dependencies
-- List the main libraries and their versions used in your project.
-  - [Library 1] version x.x.x
-  - [Library 2] version y.y.y
-  - ...
+- Main libraries and their versions used in this project.
+  - **NumPy:** Version 1.23.5
+  - **Pandas:** Version 1.5.3
+  - **Matplotlib:** Version 3.7.0
+  - **Seaborn:** Version 0.12.2
+  - **Scikit-learn:** Version 1.2.0
+  - **CatBoost:** Version 1.2
 
 ## Usage
-Provide instructions on how to reproduce or run your solution. Include any special considerations or configurations needed.
+The entire data analysis and modeling process, from Exploratory Data Analysis (EDA) to the final modeling steps, is well-documented in the Jupyter notebook. To reproduce or run the solution, follow these steps:
 
-## Model Architecture
-Briefly describe the architecture of your model, including key hyperparameters and any unique features.
+1. Open the Jupyter notebook `Binary Classification with a Bank Churn.ipynb`.
 
-## Results and Insights
-Share insights from your analysis, key findings, and any visualizations that helped in understanding the data or model performance.
+2. Execute each cell sequentially to replicate the analysis and model training.
+
+3. Ensure all dependencies are installed.
 
 ## Future Work
 Discuss potential improvements or additional steps that could be taken to enhance the model or address limitations.
