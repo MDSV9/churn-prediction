@@ -30,6 +30,7 @@ This repository contains my late submission for the Kaggle competition "Binary C
   - **Seaborn:** Version 0.12.2
   - **Scikit-learn:** Version 1.2.0
   - **CatBoost:** Version 1.2
+  - **Category Encoders:** Version 2.6.3
 
 ## Usage
 The entire data analysis and modeling process, from Exploratory Data Analysis (EDA) to the final modeling steps, is well-documented in the Jupyter notebook. To reproduce or run the solution, follow these steps:
