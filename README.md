@@ -12,13 +12,13 @@ This repository contains my late submission for the Kaggle competition "Binary C
 ## Code and Notebooks
 ### Notebooks
 1. **Exploratory Data Analysis (EDA):**
-   - [Link to EDA notebook](https://github.com/MDSV9/churn-prediction/blob/main/notebooks/eda_notebook.ipynb)
+   - [Link to EDA notebook](https://github.com/MDSV9/churn-prediction/tree/676690140ac073dd27e3347cf0fa955dbcecfcd2/notebooks)
    
 2. **Feature Engineering:**
-   - [Link to Feature Engineering notebook](https://github.com/MDSV9/churn-prediction/blob/main/notebooks/feature_engineering_notebook.ipynb)
+   - [Link to Feature Engineering notebook](https://github.com/MDSV9/churn-prediction/tree/676690140ac073dd27e3347cf0fa955dbcecfcd2/notebooks)
 
 3. **Model Training:**
-   - [Link to Model Training notebook](https://github.com/MDSV9/churn-prediction/blob/main/notebooks/model_training_notebook.ipynb)
+   - [Link to Model Training notebook](https://github.com/MDSV9/churn-prediction/tree/676690140ac073dd27e3347cf0fa955dbcecfcd2/notebooks)
 
 
 ### Code
