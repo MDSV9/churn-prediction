@@ -1,5 +1,6 @@
 # Kaggle Competition Submission - Binary Classification with a Bank Churn Dataset 
-**IN PROGRESS**
+
+---
 
 ## Overview
 This repository contains my late submission for the Kaggle competition "Binary Classification with a Bank Churn Dataset - Playground Series - Season 4, Episode 1." The goal of this competition is to predict whether a customer will continue with their bank account or close it (churn).
@@ -11,13 +12,14 @@ This repository contains my late submission for the Kaggle competition "Binary C
 ## Code and Notebooks
 ### Notebooks
 1. **Exploratory Data Analysis (EDA):**
-   - [Link to EDA notebook]
+   - [Link to EDA notebook](https://github.com/MDSV9/churn-prediction/blob/main/notebooks/eda_notebook.ipynb)
    
 2. **Feature Engineering:**
-   - [Link to Feature Engineering notebook]
+   - [Link to Feature Engineering notebook](https://github.com/MDSV9/churn-prediction/blob/main/notebooks/feature_engineering_notebook.ipynb)
 
 3. **Model Training:**
-   - [Link to Model Training notebook]
+   - [Link to Model Training notebook](https://github.com/MDSV9/churn-prediction/blob/main/notebooks/model_training_notebook.ipynb)
+
 
 ### Code
 - The `notebooks/` directory contains the code for my solution.
@@ -39,7 +41,7 @@ The entire data analysis and modeling process, from Exploratory Data Analysis (E
 
 2. Execute each cell sequentially to replicate the analysis and model training.
 
-3. Ensure all dependencies are installed.
+3. Ensure all dependencies are installed (anaconda environment provided in `env/` folder).
 
 ## Future Work
 
